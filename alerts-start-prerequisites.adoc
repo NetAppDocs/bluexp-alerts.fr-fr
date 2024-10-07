@@ -1,0 +1,39 @@
+---
+sidebar: sidebar 
+permalink: alerts-start-prerequisites.html 
+keywords: what are bluexp alerts requirements, bluexp alerts, alerts prerequisites 
+summary: Lancez-vous avec les alertes BlueXP  en vérifiant la prise en charge de votre environnement, de votre accès réseau, de votre connexion et de votre navigateur Web. 
+---
+= Conditions préalables aux alertes BlueXP 
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/get-started/
+
+
+[role="lead"]
+Commencez à utiliser les alertes BlueXP  en vérifiant le niveau de préparation de votre environnement opérationnel.
+
+Pour utiliser les alertes BlueXP , vous devez disposer des conditions préalables suivantes :
+
+* ONTAP 9.10 et versions ultérieures. L'environnement de travail sur site doit être découvert dans le canevas BlueXP .
++
+** Autorisations ONTAP de l'administrateur du cluster
++
+Il n'est pas nécessaire de saisir la licence dans le portefeuille numérique BlueXP .
+
+
+
+* Dans BlueXP :
++
+** Environnement de travail BlueXP  avec stockage NAS ou SAN sur site NetApp
+** Un connecteur BlueXP  pour une région sur site doit être configuré dans BlueXP . Reportez-vous à la https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["Documentation BlueXP pour configurer le connecteur"^].
++
+Si un cluster est retiré d'un connecteur BlueXP , les alertes associées à ce cluster restent pendant 90 jours. Par ailleurs, si vous changez de connecteur, les alertes restent associées au cluster et au connecteur d'origine pendant 90 jours. Si vous revenez au connecteur d'origine, ces alertes s'affichent à nouveau.
+
+** Organisation BlueXP  avec au moins un connecteur actif se connectant aux clusters ONTAP sur site. Tous les environnements source et de travail doivent faire partie du même service BlueXP .
+** Un utilisateur BlueXP  de cette entreprise avec Privileges d'administration de l'entreprise pour la découverte des ressources
+** https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["Exigences standard de BlueXP"^]
+
+
+

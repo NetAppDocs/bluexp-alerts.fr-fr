@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: alerts-start-setup.html 
+keywords: bluexp, alerts, ontap, netapp 
+summary: Pour utiliser les alertes BlueXP , effectuez quelques étapes pour les configurer. 
+---
+= Configurez les alertes BlueXP 
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Pour utiliser les alertes BlueXP , effectuez quelques étapes pour les configurer.
+
+Avant de commencer, vérifiez link:alerts-start-prerequisites.html["prérequis"]que votre environnement est prêt.
+
+Révision https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["Exigences standard de BlueXP"^].
+
+
+
+== Accès aux ressources du cluster
+
+Pour afficher les alertes, l'utilisateur connecté doit faire partie de l'organisation BlueXP  et avoir l'accès requis à la ressource du cluster.
+
+
+
+== Créer un connecteur BlueXP
+
+Contactez votre ingénieur commercial NetApp pour essayer ou utiliser ce service. Ensuite, lorsque vous utilisez BlueXP  Connector, il inclut les fonctionnalités appropriées pour le service d'alertes.
+
+Pour créer un connecteur dans BlueXP  avant d'utiliser le service, reportez-vous à la documentation BlueXP  qui décrit https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["Comment créer un connecteur BlueXP"^].
+
+Après avoir configuré le connecteur et ajouté l'environnement de travail, attendez environ 15 minutes pour la découverte initiale.

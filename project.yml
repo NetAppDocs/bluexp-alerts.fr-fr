@@ -1,0 +1,46 @@
+---
+settings:
+  name: BlueXP alerts
+  platform: cloud
+  internal:
+    pdf_enabled: true
+    termcheck_enabled: true
+    lipi_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: false
+  rss_page: whats-new.html
+  langs: fr-fr,us-en,ja-jp,ko-kr,zh-cn,zh-tw,de-de,es-es,it-it
+sidebar:
+  entries:
+  - title: Documents relatifs aux alertes BlueXP 
+    url: "/index.html"
+  - title: Notes de mise à jour
+    url: "/whats-new.html"
+  - title: Commencez
+    entries:
+    - title: En savoir plus sur les alertes BlueXP 
+      url: "/concept-alerts.html"
+    - title: Prérequis
+      url: "/alerts-start-prerequisites.html"
+    - title: Démarrage rapide
+      url: "/alerts-start-quick-start.html"
+    - title: Configurez les alertes BlueXP 
+      url: "/alerts-start-setup.html"
+    - title: Accédez aux alertes BlueXP 
+      url: "/alerts-start-login.html"
+  - title: Utilisez les alertes BlueXP 
+    entries:
+    - title: Utilisez la présentation des alertes BlueXP 
+      url: "/alerts-use-overview.html"
+    - title: Affichez les risques potentiels dans le stockage ONTAP
+      url: "/alerts-use-dashboard.html"
+    - title: Afficher des alertes dans votre environnement de stockage
+      url: "/alerts-use-alerts.html"
+  - title: FAQ
+    url: "/alerts-faq.html"
+  - title: Mentions légales
+    url: "/legal-notices.html"
+product-family:
+  name: BlueXP
+  repo: bluexp-family

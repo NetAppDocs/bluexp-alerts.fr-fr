@@ -1,0 +1,19 @@
+---
+sidebar: sidebar 
+permalink: alerts-use-overview.html 
+keywords: alerts, alerts, ontap, netapp 
+summary: 'Grâce aux alertes BlueXP , vous pouvez consulter l"état des workloads et les protéger.' 
+---
+= Utilisez les alertes BlueXP 
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Grâce aux alertes BlueXP , vous pouvez afficher les problèmes de stockage et consulter des détails, avec des liens directs vers System Manager.
+
+* link:alerts-use-dashboard.html["Consultez les problèmes de stockage ou les risques potentiels sur la page de liste des alertes"].
+* link:alerts-use-alerts.html["Afficher les détails des alertes liées dans System Manager"]
+
