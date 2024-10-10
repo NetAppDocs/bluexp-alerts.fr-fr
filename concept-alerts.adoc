@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: concept-alerts.html 
 keywords: netapp, ontap, alert, capacity, performance, availability, security, protection, bluexp, bluexp alerts 
-summary: 'Les alertes BlueXP  sont un service qui vous permet de visualiser les problèmes ou les risques potentiels dans votre environnement NetApp ONTAP liés à la capacité, aux performances, à la disponibilité et à la sécurité. Avec ce service, vous pouvez explorer des détails à l"aide de NetApp System Manager.' 
+summary: 'Les alertes BlueXP  sont un service qui vous permet de visualiser les problèmes ou les risques potentiels dans votre environnement NetApp ONTAP liés à la capacité, aux performances, à la disponibilité et à la sécurité. Avec ce service, vous pouvez explorer des détails à l"aide de ONTAP System Manager.' 
 ---
 = En savoir plus sur les alertes BlueXP 
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: 'Les alertes BlueXP  sont un service qui vous permet de visualiser les
 
 
 [role="lead"]
-Les alertes BlueXP  sont un service qui vous permet de visualiser les problèmes ou les risques potentiels dans vos environnements ONTAP sur site NetApp à l'aide du connecteur BlueXP  standard. Avec ce service, vous pouvez explorer des détails à l'aide de NetApp System Manager.
+Les alertes BlueXP  sont un service qui vous permet de visualiser les problèmes ou les risques potentiels dans vos environnements ONTAP sur site NetApp à l'aide du connecteur BlueXP  standard. Avec ce service, vous pouvez explorer des détails à l'aide de ONTAP System Manager.
 
 
 
