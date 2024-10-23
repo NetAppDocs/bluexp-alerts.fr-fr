@@ -12,8 +12,8 @@ summary: 'Grâce aux alertes BlueXP , vous pouvez consulter l"état des workloa
 
 
 [role="lead"]
-Grâce aux alertes BlueXP , vous pouvez afficher les problèmes de stockage et consulter des détails, avec des liens directs vers System Manager.
+Grâce aux alertes BlueXP , vous pouvez afficher les problèmes de stockage et consulter des détails, avec des liens directs vers ONTAP System Manager.
 
 * link:alerts-use-dashboard.html["Consultez les problèmes de stockage ou les risques potentiels sur la page de liste des alertes"].
-* link:alerts-use-alerts.html["Afficher les détails des alertes liées dans System Manager"]
+* link:alerts-use-alerts.html["Afficher les détails des alertes liées dans ONTAP System Manager"]
 

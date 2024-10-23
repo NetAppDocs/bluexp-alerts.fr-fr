@@ -4,7 +4,7 @@ permalink: whats-new.html
 keywords: 'what"s new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes, ontap, bluexp, system manager' 
 summary: Découvrez les nouveautés des alertes BlueXP . 
 ---
-= Notes de version : nouveautés de la protection des alertes BlueXP 
+= Nouveautés des alertes BlueXP 
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 
@@ -22,9 +22,9 @@ Découvrez les nouveautés des alertes BlueXP .
 
 La version initiale des alertes BlueXP  comprend les fonctionnalités suivantes :
 
-* *Page de liste des alertes BlueXP * : vous pouvez identifier rapidement les clusters ONTAP dont la capacité ou les performances sont faibles, mesurer l'étendue de la disponibilité et identifier les risques de sécurité. Vous pouvez afficher les alertes relatives à la capacité, aux performances, à la protection, à la disponibilité, à la sécurité et à la configuration.
+* *Page de liste des alertes BlueXP * : vous pouvez identifier rapidement les clusters ONTAP dont la capacité est faible ou les performances faibles, mesurer l'étendue de la disponibilité et identifier les risques de sécurité. Vous pouvez afficher les alertes relatives à la capacité, aux performances, à la protection, à la disponibilité, à la sécurité et à la configuration.
 * *Détails des alertes* : vous pouvez explorer les détails des alertes et trouver des recommandations.
-* *Afficher les détails du cluster liés à System Manager* : avec les alertes BlueXP , vous pouvez afficher les alertes associées à votre environnement de stockage ONTAP et explorer les détails liés à NetApp System Manager.
+* *Afficher les détails du cluster liés à System Manager* : avec les alertes BlueXP , vous pouvez afficher les alertes associées à votre environnement de stockage ONTAP et explorer les détails liés à ONTAP System Manager.
 
 
 https://docs.netapp.com/us-en/bluexp-alerts/concept-alerts.html["En savoir plus sur les alertes BlueXP "].
