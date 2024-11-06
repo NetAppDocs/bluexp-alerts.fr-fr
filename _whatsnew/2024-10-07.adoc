@@ -1,24 +1,6 @@
----
-sidebar: sidebar 
-permalink: whats-new.html 
-keywords: 'what"s new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes, ontap, bluexp, system manager' 
-summary: Découvrez les nouveautés des alertes BlueXP . 
----
-= Nouveautés des alertes BlueXP 
-:hardbreaks:
+= Page de liste des alertes BlueXP 
 :allow-uri-read: 
-:nofooter: 
-:icons: font
-:linkattrs: 
-:imagesdir: ./media/
 
-
-[role="lead"]
-Découvrez les nouveautés des alertes BlueXP .
-
-
-
-== 7 octobre 2024
 
 
 
